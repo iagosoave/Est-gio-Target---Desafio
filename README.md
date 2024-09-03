@@ -17,7 +17,7 @@
    Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
    Ao final do processamento, qual será o valor da variável SOMA?
 
-4. ** Sequências Numéricas **
+4. **Sequências Numéricas**
    
    Complete o próximo elemento das seguintes sequências:
 
@@ -28,7 +28,7 @@
  - e) 1, 1, 2, 3, 5, 8, ____
  - f) 2, 10, 12, 16, 17, 18, 19, ____
 
-5. ** Desafio dos Interruptores e Lâmpadas **
+5. **Desafio dos Interruptores e Lâmpadas**
    
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada usando apenas duas idas até uma das salas das lâmpadas. 
 
