@@ -1,55 +1,35 @@
 # Desafio Target
 
-
-
 ## Desafios
 
-### 1. Verificação de Número na Sequência de Fibonacci
+1. **Verificação de Número na Sequência de Fibonacci**
 
-Este programa verifica se um número informado pertence à sequência de Fibonacci. A sequência de Fibonacci é gerada a partir de 0 e 1, com cada número subsequente sendo a soma dos dois números anteriores.
+   Escreva um programa que, informado um número, calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não à sequência.
 
-**Arquivo:** `FibonacciCheck.java`
+2. **Contagem da Letra 'a' em uma String**
 
-**Como executar:**
+   Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
-1. Compile o código:
-    ```bash
-    javac FibonacciCheck.java
-    ```
-2. Execute o programa:
-    ```bash
-    java FibonacciCheck
-    ```
-3. Informe um número quando solicitado para verificar se ele pertence à sequência de Fibonacci.
+3. **Valor da Variável SOMA**
 
-### 2. Contagem da Letra 'a' em uma String
+   Observe o trecho de código abaixo e determine o valor final da variável `SOMA`:
 
-Este programa conta a quantidade de vezes que a letra 'a' (tanto maiúscula quanto minúscula) ocorre em uma string fornecida pelo usuário.
+   Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+   Ao final do processamento, qual será o valor da variável SOMA?
 
-**Arquivo:** `CountLetterA.java`
+4. ** Sequências Numéricas **
+   
+  Complete o próximo elemento das seguintes sequências:
 
-**Como executar:**
+ - a) 1, 3, 5, 7, ___
+ - b) 2, 4, 8, 16, 32, 64, ____
+ - c) 0, 1, 4, 9, 16, 25, 36, ____
+ - d) 4, 16, 36, 64, ____
+ - e) 1, 1, 2, 3, 5, 8, ____
+ - f) 2, 10, 12, 16, 17, 18, 19, ____
 
-1. Compile o código:
-    ```bash
-    javac CountLetterA.java
-    ```
-2. Execute o programa:
-    ```bash
-    java CountLetterA
-    ```
-3. Digite a string quando solicitado para contar a ocorrência da letra 'a'.
+5. ** Desafio dos Interruptores e Lâmpadas **
+   
+Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada usando apenas duas idas até uma das salas das lâmpadas. 
 
-### 3. Valor da Variável SOMA
 
-Este é um trecho de código que calcula a soma dos números de 2 até 11. O valor final da variável `SOMA` é calculado através de um loop.
-
-**Código fornecido:**
-
-```java
-int INDICE = 12, SOMA = 0, K = 1;
-while (K < INDICE) {
-    K = K + 1;
-    SOMA = SOMA + K;
-}
-System.out.println(SOMA);
