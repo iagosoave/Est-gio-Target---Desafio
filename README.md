@@ -1,5 +1,5 @@
 # Desafio Target
-
+ Desafio para estágio Target
 ## Desafios
 
 1. **Verificação de Número na Sequência de Fibonacci**
@@ -32,4 +32,8 @@
    
 Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada usando apenas duas idas até uma das salas das lâmpadas. 
 
+## Contato
+- Nome do Desenvolvedor: Iago Soave
+- GitHub: Iagosoave
+- LinkedIn: www.linkedin.com/in/iagosoave
 
