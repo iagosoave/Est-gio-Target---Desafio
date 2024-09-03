@@ -19,7 +19,7 @@
 
 4. ** Sequências Numéricas **
    
-  Complete o próximo elemento das seguintes sequências:
+   Complete o próximo elemento das seguintes sequências:
 
  - a) 1, 3, 5, 7, ___
  - b) 2, 4, 8, 16, 32, 64, ____
